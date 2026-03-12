@@ -1,16 +1,27 @@
-## Hi there 👋
+# My Name is Mallikarjun 
+## I learned programmning languages are
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+- PHP
 
-<!--
-**mallikarjun524/mallikarjun524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I Learned different technologies in web development
+- BootStrap
+- Tailwind CSS
 
-Here are some ideas to get you started:
+## I Learned Skills in Java
+- Spring Boot
+- JDBC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I Learned Skills in JavaScript 
+- React JS
+- Express.js
+
+## I Learned skills in Python
+- PySide6
+- Flask
+
+## I Learned skills in PHP
+- CodeIgniter 3
